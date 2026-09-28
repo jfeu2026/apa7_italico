@@ -4,8 +4,8 @@
   <info>
     <title>APA 7 - et al. em italico (personalizado)</title>
     <title-short>Publication Manual of the American Psychological Association, with Bluebook</title-short>
-    <id>http://www.zotero.org/styles/apa-7-et-al-italico-personalizado</id>
-    <link href="http://www.zotero.org/styles/apa-7-et-al-italico-personalizado" rel="self"/>
+    <id>https://raw.githubusercontent.com/jfeu2026/apa7_italico/refs/heads/main/APA7_et_al_italico.csl</id>
+    <link href="https://raw.githubusercontent.com/jfeu2026/apa7_italico/refs/heads/main/APA7_et_al_italico.csl" rel="self"/>
     <link href="http://www.zotero.org/styles/apa-6th-edition" rel="template"/>
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references" rel="documentation"/>
     <link href="https://zotero.org/groups/2205533/collections/MR2N872S" rel="documentation"/>
